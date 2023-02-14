@@ -21,8 +21,8 @@ ivector icreavector(int tam) {
 
 void ifreevector (ivector *v) {
 
-	if (*v){
-		free (*v);
+	if (*v != NULL){
+		free(*v);
 		*v=NULL;
 	}
 }

@@ -7,7 +7,7 @@
 
 #define IVECTOR
 
-typedef int *ivector;
+typedef int* ivector;
 
 ivector icreavector(int tam);
 void ifreevector(ivector *v);
