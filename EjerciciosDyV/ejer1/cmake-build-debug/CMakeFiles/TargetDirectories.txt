@@ -1,0 +1,3 @@
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosDyV/ejer1/cmake-build-debug/CMakeFiles/ejer1.dir
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosDyV/ejer1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosDyV/ejer1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
