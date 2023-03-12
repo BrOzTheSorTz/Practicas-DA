@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Ejercicio1" targetName="Ejercicio1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="959447aa-5373-4b4b-aa09-a8efcdee476a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/.idea/MaximaNota.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c22dfb993b1188d68f93.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-454d98f7f93060761908.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-12edd3341af59310055c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/reply/index-2023-02-19T12-42-43-0212.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/reply/target-MaximaNota-Debug-b79f6abcdbed1a158092.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-6bbe3d3521e8d6cffb4c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/MaximaNota.dir/ivector.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/MaximaNota.dir/main.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/MaximaNota" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/ivector.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/ivector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/MaximaNota/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/centroUnion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/centroUnion/.idea/centroUnion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/centroUnion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/centroUnion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/centroUnion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/centroUnion/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/centroUnion/ivector.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EjerciciosDyV/centroUnion/ivector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EjerciciosDyV/ejer1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../EjerciciosDyV/ejer1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EjerciciosDyV/ejer1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../EjerciciosDyV/ejer1/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio1/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio6/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio6/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="2Leauy8aYy2TA51S8SJXLTYz5BE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/jpablo/Escritorio/Practicas-DA/Practica1/Ejercicio6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Ejercicio1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ejercicio1" TARGET_NAME="Ejercicio1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ejercicio1" RUN_TARGET_NAME="Ejercicio1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="959447aa-5373-4b4b-aa09-a8efcdee476a" name="Changes" comment="" />
+      <created>1676234228792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676234228792</updated>
+      <workItem from="1676234230219" duration="3019000" />
+      <workItem from="1676400865440" duration="5062000" />
+      <workItem from="1676540214416" duration="241000" />
+      <workItem from="1676758418864" duration="1762000" />
+      <workItem from="1676804313147" duration="51000" />
+      <workItem from="1676995985172" duration="1654000" />
+      <workItem from="1676998716528" duration="2101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
