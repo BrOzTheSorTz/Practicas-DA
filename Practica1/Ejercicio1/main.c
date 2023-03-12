@@ -16,12 +16,12 @@ void swap(int *a,int *b){
  * -> 8|5|9|2 -> 5|8|9|2
  * -> 5|8|2|9 -> 5|2|8|9 -> 2|5|8|9
 */
-void insercion(ivector v, int tam){
+void insercion(ivector v, int ini, int fin){
 
-    int i = 0;
+    int i = ini;
     printf("Insercion\n");
-    while(i < tam-1){
-        for(int j=i+1;j>0;--j){
+    while(i < fin){
+        for(int j=i+1;j>ini;--j){
             if(v[j-1] > v[j]){
                 swap(&v[j-1],&v[j]);
             }
@@ -90,7 +90,7 @@ void merge(ivector t,ivector u,ivector v,int ini,int med, int fin){
 void mergeSort(ivector t,int ini,int fin){
 
     if((fin-ini+1) <= 4){
-        insercion(t,(fin-ini+1));
+        insercion(t,ini,fin);
     }else{
         int tam =fin-ini+1;
         int med = tam/2;
@@ -122,7 +122,7 @@ void mergeSort(ivector t,int ini,int fin){
 
 
 int main(){
-    int tam = 16;
+    int tam = 8;
     ivector v = icreavector(tam) ;
 
     //Generacion de semilla para numeros aleatorios
@@ -130,6 +130,10 @@ int main(){
     for(int i=0;i<tam;++i){
         int n= rand() % tam;
         v[i] = n;
+    }
+
+    for(int i=0;i<tam;++i){
+        printf("%d -- ",v[i]);
     }
 
     mergeSort(v,0,tam-1);

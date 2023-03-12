@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "Ejercicio1",
+					"name" : "MaximaNota",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Ejercicio1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Ejercicio1-Debug-efb89bd44d0a4dc81da8.json",
-					"name" : "Ejercicio1",
+					"id" : "MaximaNota::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MaximaNota-Debug-b79f6abcdbed1a158092.json",
+					"name" : "MaximaNota",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/administrador/Escritorio/PracticasDA/Practica2/Ejercicio1/cmake-build-debug",
-		"source" : "/home/administrador/Escritorio/PracticasDA/Practica2/Ejercicio1"
+		"build" : "/home/jpablo/Escritorio/Practicas-DA/EjerciciosDyV/MaximaNota/cmake-build-debug",
+		"source" : "/home/jpablo/Escritorio/Practicas-DA/EjerciciosDyV/MaximaNota"
 	},
 	"version" : 
 	{

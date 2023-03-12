@@ -70,14 +70,22 @@ int mayoritarioDyV(ivector v,int ini,int fin){
                 return posDer;
             }
         }else if(posIzq != -1 && posDer != -1){
+            int sum1 = 0;
+            int sum2 = 0;
             for(int i=ini;i<=fin;++i){
                 if(v[i] == v[posIzq]){
-                    ++cont;
+                    ++sum1;
+                }
+                if(v[i] == v[posDer]){
+                    ++sum2;
                 }
             }
-            if(cont > (fin-ini+1)/2){
+            if(suma1 > (fin-ini+1)/2){
                 return posIzq;
+            }else if(suma2 > (fin-ini+1)/2){
+                return posDer;
             }
+            return -1;
         }
 
     }

@@ -56,7 +56,7 @@ int sumaElementosDyV(ivector v,int ini, int fin,int *max,int *min){
         }else{
             suma += izqmin;
         }
-
+	//todo mejorar codigo con swap(__,__);
         return suma;
 
     }

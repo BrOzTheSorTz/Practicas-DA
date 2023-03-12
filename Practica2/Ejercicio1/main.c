@@ -38,24 +38,24 @@ void funcionVoraz(ivector candidatos, int tam,ivector solucion){
 
     while(indice < tam) {
 
-        while(candidatos[indice].tiempoLimite <= 0){
-
+        if(candidatos[indice].tiempoLimite <=0){
             if(candidatos[indice].tiempoLimite == 0) candidatos[indice].aCobrar = 0;
             solucion[finSol] = candidatos[indice];
             ++indice;
             --finSol;
+        }else {
+
+
+            candidatos[indice].tiempoLimite = -1;
+            solucion[indiceSol] = candidatos[indice];
+
+
+
+            //Restar una unidad a todos
+            restarUnidad(candidatos, tam);
+            ++indice;
+            ++indiceSol;
         }
-        struct Pedido candidato = candidatos[indice];
-
-        candidato.tiempoLimite =-1;
-        solucion[indiceSol] = candidato;
-
-
-
-        //Restar una unidad a todos
-        restarUnidad(candidatos, tam);
-        ++indice;
-        ++indiceSol;
     }
 
 
@@ -108,11 +108,13 @@ int main(){
     ivector sol = icreavector(9);
     funcionVoraz(v,9,sol);
 
-
+    int suma = 0;
     for(int i=0;i<9;++i){
         printf("Pedido: %d\n",sol[i].numPedido);
+        suma += sol[i].aCobrar;
     }
 
+    printf("Ganancias totales: %d",suma);
 
     ifreevector(&v);
     ifreevector(&sol);

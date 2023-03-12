@@ -34,7 +34,10 @@ void swap(struct carrera *c1,struct carrera *c2){
 int reordena(ivector v, int ini, int fin, struct carrera pivote){
 
     while(ini <= fin){
+        //Se tiene que hacer al principio
+        //para evitar tener que hacer ajustes de ini y fin
         swap(&v[ini],&v[fin]);
+
         while(v[ini].litros >= pivote.litros){
             ++ini;
         }
@@ -64,6 +67,7 @@ int elMejor( ivector v, int ini, int fin,int k){
         }else{
             return elMejor(v,pos,fin,k);
         }
+
 
     }
 }
@@ -96,7 +100,7 @@ int main(){
     v[8].litros =468;
     v[9].litros =580;
 
-    int k = 3;
+    int k = 9;
     int mejor = elMejor(v,0,9,k);
     printf("El dorsal que quedo en la posicion %d fue %d",k,mejor);
 

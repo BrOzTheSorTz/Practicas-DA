@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/administrador/Escritorio/PracticasDA/Practica2/Ejercicio1/cmake-build-debug"
+			"value" : "/home/jpablo/Escritorio/Practicas-DA/Practica2/Ejercicio3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/administrador/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/linux/x64/bin/cmake"
+			"value" : "/snap/clion/228/bin/cmake/linux/x64/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/administrador/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/linux/x64/bin/cpack"
+			"value" : "/snap/clion/228/bin/cmake/linux/x64/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/administrador/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/linux/x64/bin/ctest"
+			"value" : "/snap/clion/228/bin/cmake/linux/x64/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER",
@@ -171,7 +171,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/usr/bin/gcc-ar-9"
+			"value" : "/usr/bin/gcc-ar-11"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_RANLIB",
@@ -187,7 +187,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/usr/bin/gcc-ranlib-9"
+			"value" : "/usr/bin/gcc-ranlib-11"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/administrador/Escritorio/PracticasDA/Practica2/Ejercicio1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/jpablo/Escritorio/Practicas-DA/Practica2/Ejercicio3/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/administrador/Escritorio/PracticasDA/Practica2/Ejercicio1"
+			"value" : "/home/jpablo/Escritorio/Practicas-DA/Practica2/Ejercicio3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -527,7 +527,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/home/administrador/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/ninja/linux/x64/ninja"
+			"value" : "/snap/clion/228/bin/ninja/linux/x64/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -715,7 +715,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Ejercicio1"
+			"value" : "Ejercicio3"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -759,7 +759,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/administrador/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/223.8617.54/bin/cmake/linux/x64/share/cmake-3.24"
+			"value" : "/snap/clion/228/bin/cmake/linux/x64/share/cmake-3.24"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -998,7 +998,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Ejercicio1_BINARY_DIR",
+			"name" : "Ejercicio3_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1007,10 +1007,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/administrador/Escritorio/PracticasDA/Practica2/Ejercicio1/cmake-build-debug"
+			"value" : "/home/jpablo/Escritorio/Practicas-DA/Practica2/Ejercicio3/cmake-build-debug"
 		},
 		{
-			"name" : "Ejercicio1_IS_TOP_LEVEL",
+			"name" : "Ejercicio3_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1022,7 +1022,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Ejercicio1_SOURCE_DIR",
+			"name" : "Ejercicio3_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1031,7 +1031,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/administrador/Escritorio/PracticasDA/Practica2/Ejercicio1"
+			"value" : "/home/jpablo/Escritorio/Practicas-DA/Practica2/Ejercicio3"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
