@@ -40,13 +40,14 @@ void funcionVoraz(ivector candidatos, int tam,ivector solucion){
 
         if(candidatos[indice].tiempoLimite <=0){
             if(candidatos[indice].tiempoLimite == 0) candidatos[indice].aCobrar = 0;
+            //Añado al final los que ya no me sirven
             solucion[finSol] = candidatos[indice];
             ++indice;
             --finSol;
         }else {
 
 
-            candidatos[indice].tiempoLimite = -1;
+            candidatos[indice].tiempoLimite = -1; //Elegido
             solucion[indiceSol] = candidatos[indice];
 
 

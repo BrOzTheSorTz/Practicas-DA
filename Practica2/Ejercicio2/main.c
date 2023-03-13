@@ -7,7 +7,7 @@
 
 
 /**
- * Busca en el vector B los números mayores a B
+ * Busca en el vector B los números mayores o iguales a B
  * @param B  vector donde buscar numeros mayores a num
  * @param num
  * @param tam Tamaño del vector devuelto
@@ -110,7 +110,12 @@ int main(){
 
     ivector sol = funcionVoraz(A,B,5);
     for(int i=0;i<5;++i){
-        printf("%d\n",sol[i]);
+        printf("%d  ",A[i]);
+    }
+    printf("\n");
+    for(int i=0;i<5;++i){
+
+        printf("%d  ",sol[i]);
     }
 
 

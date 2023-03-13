@@ -161,7 +161,7 @@ int main (){
 
 
     for(int i=0;i<9;++i){
-        printf("{%d-%d}  ",sol[i].u+1,sol[i].v+1  );
+        printf("{%d-%d}  ",sol[i].u+1,sol[i].v+1 );
     }
     printf("\n");
     for(int i=0;i<9;++i){
