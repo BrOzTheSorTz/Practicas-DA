@@ -4,6 +4,6 @@ project(Ejercicio6 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Ejercicio6
-        main.c ivector.c ivector.h)
+        main.c ivector.c ivector.h heap_aristas.c heap_aristas.h)
 
 

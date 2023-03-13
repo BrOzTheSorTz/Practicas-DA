@@ -1,0 +1,27 @@
+# ninja log v5
+0	14	1678721324453387638	CMakeFiles/CaminosDijkstra.dir/ivector.c.o	7f42a13ce41580
+0	15	1678721324453387638	CMakeFiles/CaminosDijkstra.dir/imatriz2d.c.o	32cdd4e546b68a6f
+0	16	1678721324453387638	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+16	28	1678721324465387601	CaminosDijkstra	b3b4526cc4ec4be8
+0	16	1678721377521336644	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+16	29	1678721377533336657	CaminosDijkstra	b3b4526cc4ec4be8
+0	15	1678721407889404014	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+15	27	1678721407901404053	CaminosDijkstra	b3b4526cc4ec4be8
+0	16	1678721424949470730	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+16	28	1678721424961470782	CaminosDijkstra	b3b4526cc4ec4be8
+1	16	1678721513706124672	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+16	28	1678721513718124793	CaminosDijkstra	b3b4526cc4ec4be8
+1	16	1678721854992276226	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+16	27	1678721855004276518	CaminosDijkstra	b3b4526cc4ec4be8
+0	16	1678721964039099976	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+16	27	1678721964051100304	CaminosDijkstra	b3b4526cc4ec4be8
+0	15	1678722065841994135	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+15	29	1678722065857994606	CaminosDijkstra	b3b4526cc4ec4be8
+0	16	1678722097038923541	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+16	29	1678722097050923902	CaminosDijkstra	b3b4526cc4ec4be8
+0	16	1678722425341609046	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+16	28	1678722425353609460	CaminosDijkstra	b3b4526cc4ec4be8
+0	16	1678722500544232460	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+16	28	1678722500556232882	CaminosDijkstra	b3b4526cc4ec4be8
+0	16	1678722547237885584	CMakeFiles/CaminosDijkstra.dir/main.c.o	95e3e79f2a8fdcab
+16	31	1678722547249886011	CaminosDijkstra	b3b4526cc4ec4be8
