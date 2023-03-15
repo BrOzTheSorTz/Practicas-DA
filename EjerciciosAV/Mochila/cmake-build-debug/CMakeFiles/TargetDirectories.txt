@@ -1,0 +1,3 @@
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosAV/Mochila/cmake-build-debug/CMakeFiles/Mochila.dir
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosAV/Mochila/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosAV/Mochila/cmake-build-debug/CMakeFiles/rebuild_cache.dir

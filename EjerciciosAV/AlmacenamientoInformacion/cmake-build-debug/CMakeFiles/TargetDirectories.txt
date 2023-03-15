@@ -1,0 +1,3 @@
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosAV/AlmacenamientoInformacion/cmake-build-debug/CMakeFiles/AlmacenamientoInformacion.dir
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosAV/AlmacenamientoInformacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosAV/AlmacenamientoInformacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

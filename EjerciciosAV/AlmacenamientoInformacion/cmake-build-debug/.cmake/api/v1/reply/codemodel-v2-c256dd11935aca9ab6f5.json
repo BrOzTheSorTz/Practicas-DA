@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AlmacenamientoInformacion",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AlmacenamientoInformacion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AlmacenamientoInformacion-Debug-7158392327181bbd15db.json",
+					"name" : "AlmacenamientoInformacion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jpablo/Escritorio/Practicas-DA/EjerciciosAV/AlmacenamientoInformacion/cmake-build-debug",
+		"source" : "/home/jpablo/Escritorio/Practicas-DA/EjerciciosAV/AlmacenamientoInformacion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

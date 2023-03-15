@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/AlmacenamientoInformacion.dir/main.c.o CMakeFiles/AlmacenamientoInformacion.dir/ivector.c.o CMakeFiles/AlmacenamientoInformacion.dir/vdin.c.o -o AlmacenamientoInformacion 
