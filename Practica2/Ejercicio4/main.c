@@ -22,7 +22,7 @@ int compare(const void * a,const void *b){
 
 }
 
-int* iluminacionContinua(ivector bombillas,int tam, int m){
+ivector iluminacionContinua(ivector bombillas,int tam, int m){
     ivector conjSol = icreavector(tam); // Guardaremos el id de las bombillas prometedoras
     int iSol = 0;
     qsort(bombillas,tam,sizeof (struct Bombilla),&compare);
@@ -38,6 +38,7 @@ int* iluminacionContinua(ivector bombillas,int tam, int m){
 
         conjuntoDeM[iConjunto].id = bombillas[i].id;
         conjuntoDeM[iConjunto].duracion = bombillas[i].duracion;
+
         ++iConjunto;
 
     }
@@ -64,7 +65,7 @@ int* iluminacionContinua(ivector bombillas,int tam, int m){
                     conjSol[iSol].duracion = bombillas[iSol].duracion;
 
                     ++iSol;
-                    ++bomCogidas;int gastadas = 0;
+                    ++bomCogidas;
                 }else{
                     hayLuz = 0;
                 }

@@ -4,4 +4,4 @@ project(AlmacenamientoInformacion C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(AlmacenamientoInformacion
-        main.c)
+        main.c ivector.h ivector.c vdin.h vdin.c)
