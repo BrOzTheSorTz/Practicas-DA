@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MatrizCosteMinimo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MatrizCosteMinimo">
+				<Option output="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/MatrizCosteMinimo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/."/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 MatrizCosteMinimo"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MatrizCosteMinimo/fast">
+				<Option output="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/MatrizCosteMinimo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/."/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 MatrizCosteMinimo/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/imatriz2d.c">
+			<Option target="MatrizCosteMinimo"/>
+		</Unit>
+		<Unit filename="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/imatriz2d.h">
+			<Option target="MatrizCosteMinimo"/>
+		</Unit>
+		<Unit filename="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/main.c">
+			<Option target="MatrizCosteMinimo"/>
+		</Unit>
+		<Unit filename="/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

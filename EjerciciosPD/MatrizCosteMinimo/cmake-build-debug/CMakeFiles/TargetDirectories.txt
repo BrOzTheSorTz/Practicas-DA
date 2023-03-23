@@ -1,0 +1,3 @@
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/CMakeFiles/MatrizCosteMinimo.dir
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/MatrizCosteMinimo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
