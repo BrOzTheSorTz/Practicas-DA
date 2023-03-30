@@ -43,8 +43,9 @@ int calculoNporIndicePD(int n, int m){
         v[i] = v[floor(i/2.0)]+ v[ceil(i/2.0)];
 
     }
-
-    return v[m];
+    int res = v[m];
+    ifreevector(&v);
+    return res;
 }
 
 int main(){
