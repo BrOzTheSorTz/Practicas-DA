@@ -1,0 +1,3 @@
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/TarificacionPostal/cmake-build-debug/CMakeFiles/TarificacionPostal.dir
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/TarificacionPostal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jpablo/Escritorio/Practicas-DA/EjerciciosPD/TarificacionPostal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
