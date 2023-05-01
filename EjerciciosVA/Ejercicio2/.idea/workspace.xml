@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Ejercicio2" targetName="Ejercicio2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="013a2d2f-db6a-49e2-8acb-810b6a577a56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/.idea/Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/ivector.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/ivector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a54e66877cb19bf63e1e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-becbac8c2069cae16742.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1ad13a400399e5c128bf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-24T15-21-38-0262.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Ejercicio2-Debug-fa379ece72fc90a784e6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-6bbe3d3521e8d6cffb4c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Ejercicio2.dir/imatriz2d.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Ejercicio2.dir/ivector.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Ejercicio2.dir/main.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Ejercicio2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imatriz2d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imatriz2d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ivector.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ivector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/.idea/Ejercicio4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/.cmake/api/v1/reply/cache-v2-1d807f06090810859250.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ee7a77af646e824b3a97.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-12T13-15-40-0958.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/.cmake/api/v1/reply/cache-v2-7604e3a0c73570407024.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-10045a1323c60a7a2e73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-11T15-13-46-0689.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/.idea/Ejercicio6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/cmake-build-debug/.cmake/api/v1/reply/cache-v2-3c90983d51e938cfe3d8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c09404f4b36e8209526b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-11T13-53-48-0681.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/imatriz2d.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/imatriz2d.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/ivector.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/ivector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio6/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/.idea/Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/ivector.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/ivector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio1/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio2/.idea/Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio2/ivector.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio2/ivector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio2/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/.idea/Ejercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d8b33281ad47bf5d9826.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-362aeb04067144aa8244.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6ba4969aaa378a6fdcca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-27T09-25-32-0011.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/reply/target-Ejercicio3-Debug-2e769cf1e46ab055faa1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-6bbe3d3521e8d6cffb4c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/Ejercicio3.dir/ivector.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/Ejercicio3.dir/main.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/Ejercicio3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/ivector.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/ivector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practica4/Ejercicio3/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/.cmake/api/v1/reply/cache-v2-dc48976c23a709744ee9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-03fb7122305681417602.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/.cmake/api/v1/reply/index-2023-03-30T17-10-20-0780.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/Ejercicio4.dir/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/Ejercicio4.dir/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/Ejercicio4" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/Ejercicio4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio4/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio4/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a5bb92bf8ba4a4a3843e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-fda894236d979fe9ea45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/.cmake/api/v1/reply/index-2023-04-03T11-07-37-0212.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/Ejercicio5.dir/imatriz2d.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/Ejercicio5.dir/ivector.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/Ejercicio5.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practica3/Ejercicio5/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practica3/Ejercicio5/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.1" />
+  </component>
+  <component name="ProjectId" id="2OsUPhavdkmshM6AQfwpOkmZQ7Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Ejercicio2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Ejercicio2" TARGET_NAME="Ejercicio2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Ejercicio2" RUN_TARGET_NAME="Ejercicio2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="013a2d2f-db6a-49e2-8acb-810b6a577a56" name="Changes" comment="" />
+      <created>1682348760277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682348760277</updated>
+      <workItem from="1682348761309" duration="2549000" />
+      <workItem from="1682451399170" duration="599000" />
+      <workItem from="1682586294997" duration="1060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>64</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

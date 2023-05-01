@@ -48,6 +48,14 @@ ivector botellonMax(ivector vasos,int n,int * litros){
             }
         }
     }
+    
+    /*Para recorrer las diagonales*/
+    for(int d = 0;d<n;++d){
+    	for(int i=0;i<n-d;++i){
+    	    int j= i+d;
+    	    
+    	}
+    }
 
 
     /*Demás casos*/
@@ -85,6 +93,15 @@ ivector botellonMax(ivector vasos,int n,int * litros){
 
         }
     }
+    /*
+     * Calculos de diagonales
+     * for(int d=0;d<n;++d){
+     *  for(int i=0;i<n;++i){
+     *      j=i+d;
+     *      matriz[i][j];
+     *
+     *  }
+     * }*/
     *litros = tabla[0][n-1];
     ifreematriz2d(&tabla);
 

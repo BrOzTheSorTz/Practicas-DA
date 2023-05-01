@@ -55,6 +55,8 @@ ivector cambioMonedas(ivector M, int tam, int C, int *numMonedas,int *tamCamino)
 
         }
     }
+    printf("%d\n",monedas[tamM][C]);
+    //La solución va a estar en monedas[tamM][C]
     *numMonedas = min;
     //------------------------------------------CAMINO ÓPTIMO--------------------------------------------
 
